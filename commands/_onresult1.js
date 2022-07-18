@@ -9,7 +9,6 @@
   aliases: 
 CMD*/
 
-
 let status = options.result.status;
 
 var isJoined = (

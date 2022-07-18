@@ -4,7 +4,7 @@
   need_reply: true
   auto_retry_time: 
   folder: 
-  answer: Send user id 
+  answer: Send user id
   keyboard: 
   aliases: 
 CMD*/
@@ -17,4 +17,3 @@ if (user.telegramid == admin) {
 } else {
   Bot.sendMessage("You are Not admin")
 }
-

@@ -17,4 +17,3 @@ var button = [
 ]
 Bot.sendInlineKeyboard(button,"*💡 Your currently set TRX wallet is:* \n `"+wallet+"`\n\n💹It will be used for *all future withdrawals.*"+"\n"+"\n"+"-------------------------------------------------------------------------------------"+"\n"+"\n"+"*💡 Your currently set DOGE wallet is:* \n `"+dcwallet+"`\n\n💹It will be used for *all future withdrawals.*"
 );
-

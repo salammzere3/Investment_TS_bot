@@ -48,6 +48,3 @@ Api.sendMessage({chat_id: "@TrxInvest2xPay", text:     "*✅ New Withdrawal ✅ 
     time +
     "`"+"\n\n🔥 Refer and earn 5% 🔥",parse_mode : "Markdown" , disable_web_page_preview: true
 });
-
-
-

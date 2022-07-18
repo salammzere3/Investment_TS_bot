@@ -60,4 +60,3 @@ Api.sendMessage({chat_id: "@ASUSTradingLTD_PAY", text: "*♻️ New Reinvest* " 
 })
 }
 }
-

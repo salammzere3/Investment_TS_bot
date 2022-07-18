@@ -17,4 +17,3 @@ if(message=="Ay@5802"){
 }
 
 Bot.sendMessage(msg);
-

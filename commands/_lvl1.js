@@ -9,7 +9,6 @@
   aliases: 
 CMD*/
 
-
 if (!options){
 return
 }else{

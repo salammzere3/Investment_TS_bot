@@ -1,5 +1,5 @@
-# Investment_TS_bot - chat bot
-It is repository for chat bot: [@Investment_TS_bot](https://t.me/Investment_TS_bot)
+# ss - chat bot
+It is repository for chat bot: [@ss](https://t.me/ss)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.

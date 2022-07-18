@@ -35,4 +35,3 @@ options:{hel:hel}
 Libs.ReferralLib.currentUser.track({
    onAtractedByUser: onAttracted
 });
-

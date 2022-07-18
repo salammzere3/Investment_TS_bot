@@ -24,4 +24,3 @@ var res = Libs.ResourcesLib.anotherChatRes("userpayment", "global");
 } else {
   Bot.sendMessage("You are Not admin")
 }
-

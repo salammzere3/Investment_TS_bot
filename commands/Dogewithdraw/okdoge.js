@@ -31,5 +31,3 @@ var info =
 Api.sendMessage ({chat_id: "@TrxInvest2xPay", text: "*✅ New Withdrawal ✅\n\n*"+info+"* just withdrawn "+amount+" DOGE!\n\n💵 Amount *: "+amount+" *DOGE\n\n➕ User address : *"+wallet+"*\n\n⏱️ *_Our server time_ : "+time+"\n\n*🛡 Bot Link: https://t.me/ASUSTradingLTD_BOT*\n\n"+
 "\n\n🔥 Refer and earn 5% 🔥",parse_mode : "Markdown" , disable_web_page_preview: true
 });
-
-

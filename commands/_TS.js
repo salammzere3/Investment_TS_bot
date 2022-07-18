@@ -8,7 +8,7 @@
   <<ANSWER
 Your bot Business Gmail You Received Your Coding 
 
-( Power By Techy Sami And Airdrop TS)  
+( Power By Techy Sami And Airdrop TS)
   ANSWER
   keyboard: 
   aliases: 

@@ -21,4 +21,3 @@ let dogere= Libs.ResourcesLib.anotherChatRes("dogere","global")
 let dogedepo = Libs.ResourcesLib.anotherChatRes("dodepo","global")
 let depo = Libs.ResourcesLib.anotherChatRes("depo", "global")
 Bot.sendMessage("*📊 Bot Live Statistics*" + "\n\n👤* Total Investors:* `" + tota.value().toFixed(0) + "`\n\n*➕ Total Investments:* `\n" + depo.value().toFixed(4) + "` *TRX*\n`"+dogedepo.value().toFixed(4)+ " `*DOGE*" + "\n\n*🔄 Total Reinvests:* `\n" + re.value().toFixed(4) + "` *TRX*\n`"+dogere.value().toFixed(4)+" `*DOGE*" + "\n\n*💳 Total Withdrawn:* `\n" + userPayment.value().toFixed(4) + "` *TRX*\n`"+userPaymentdoge.value().toFixed(4)+ " `*DOGE*")
-

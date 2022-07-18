@@ -9,7 +9,6 @@
   aliases: 🗣 referral
 CMD*/
 
-
 let lib = Libs.ReferralLib
 let reflist = lib.currentUser.refList
 reflist = lib.currentUser.refList.get()
@@ -31,4 +30,3 @@ var key = [[{ title: "📑 Refs List", command: "/list"}]]
 Bot.sendInlineKeyboard(
   key,
   "🏆 *Refferrals System*" + "\n\n" + "1 Level:" + "\n" +"*🥇 Level → 5%*" + "\n\n" + "*🗣 Referral direct bot url:*" + "\n*" +reflink+ "*\n\n" + "*🗣 Referral Statistics*" + "\n\n" + "1° Level: " + reflist.length+ " users" + "\n\n" + "🗣 Referral Deposits: \n" + TRX.toFixed(5) + " *TRX*\n"+doge.toFixed(5)+" *DOGE*\n" + "\n" + "♾ Earnings: \n" + refcom.value().toFixed(5) + " *TRX*\n"+refcomd.value().toFixed(5)+" *DOGE*",{ is_reply: true })
-
